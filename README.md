@@ -94,3 +94,6 @@ https://north-appliance-4ba.notion.site/ERD-761fdf95b5da43ef8b9e5c98c8b301ee?pvs
 
 ## 팀 활동 노션 📒
 https://north-appliance-4ba.notion.site/2-e44bf8d52fc34c9daa157004923a0688?pvs=4
+
+## 인프라 구조도 ✒
+<img width="549" alt="인프라 구조도" src="https://github.com/jbonnie/Team3-33ma3/assets/123135030/395dd603-7037-4d47-8d21-6e8f3e98ad4e">
